@@ -13,6 +13,8 @@ moje podstronki
 --------
 
 .. toctree::
+      :maxdepth: 2
+      :caption: eleganckie podstronki
 
    skladnia
    autor
