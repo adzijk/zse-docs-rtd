@@ -1,20 +1,19 @@
-witom
-===================================
+mobbyn
+=====
 
-**documentation** (/dokumentejszon'/)
+**odwrocony west coast** (/scib pdw/)
 
-te no skladnia this type :doc:`skladnia`
+tutej skladnia :doc:`skladnia`
 
 .. note::
+   hehe to dresscode
 
-   notatka jol
-
-moje podstronki
---------
+treści spiS
+-----------
 
 .. toctree::
-      :maxdepth: 2
-      :caption: eleganckie podstronki
+   :maxdepth: 2
+   :caption: 9mm brat
 
    skladnia
    autor
