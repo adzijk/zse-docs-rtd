@@ -1,3 +1,6 @@
+skladnia
+=========
+
 Nagłówki tekstowe
 
 Nagłówek 1
@@ -34,7 +37,7 @@ Kod (blokowy)
 
 Link (lokalny)
 
-:ref:`https://www.google.com`
+:ref:`<https://www.google.com>`
 
 Link (zewnętrzny)
 
@@ -57,7 +60,8 @@ Pojęcie
 
 Obraz
 
-.. image:: sciezka-do-pliku.png
+.. image:: https://bbldrizzy.pl/sphinx.jpg
+   :alt: real sphinx
 
 Tabela
 
