@@ -8,12 +8,9 @@ tutej skladnia :doc:`skladnia`
 .. note::
    hehe to dresscode
 
-treści spiS
------------
-
 .. toctree::
-   :maxdepth: 2
-   :caption: 9mm brat
+   :maxdepth: 1
+   :caption: treści spiS
 
    skladnia
    autor
